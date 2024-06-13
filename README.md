@@ -4,7 +4,8 @@
 
 ## Estimated cost: $3 999
 - globally patented construction
-- innovative software
+- easy to assemble for everyone
+- innovative AI software
 - human like capability:
 
 https://github.com/obotx/open-source-robotics/assets/168444623/599c86bd-4fc9-4af4-8a29-0fe06c1e3da2
@@ -27,7 +28,7 @@ https://youtu.be/cr1q8plvLYg?si=vdiGiE9ikF4Jr6Cg
 </br>
 
 ## We are looking for cooperation and sponsorship
-- we will deliver full plans, parts list, and software
+- we will deliver full plans, easily available parts list, and software
 - free for personal and research usage
 - small fee for commercial usage (like 10%)
 - planning contests for technical teams to deliver the most efficient solution based on patent
