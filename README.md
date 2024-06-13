@@ -23,7 +23,7 @@ https://github.com/obotx/open-source-robotics/assets/168444623/3ff2339c-3a10-447
 ## Full showreel video
 
 - check out full video with examples:
-https://youtu.be/cr1q8plvLYg?si=vdiGiE9ikF4Jr6Cg
+[Meet Elon - your personal robot](https://youtu.be/cr1q8plvLYg?si=vdiGiE9ikF4Jr6Cg)
 
 </br>
 
