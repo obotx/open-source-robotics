@@ -32,12 +32,18 @@ https://youtu.be/cr1q8plvLYg?si=vdiGiE9ikF4Jr6Cg
 - small fee for commercial usage (like 10%)
 - planning contests for technical teams to deliver the most efficient solution based on patent
 
-## Sponsorship perks
-- huge discounts on construction and software
+## Limited sponsorship perks
+- huge, lifetime discounts on construction and software
 - dedicated, unique items
 - surprises :)
 - ObotX shares for sponshorship above $100k
+- and others
 
-Would you like to add your logo here? 
+Are you a corporation and would you like to add your logo here? 
 
-For more information and check cooperation proposals please write: openrobotx@gmail.com
+For more information on:
+- what we can propose for sponsorship
+- our plans
+- cooperation options
+ 
+please write: openrobotx@gmail.com
