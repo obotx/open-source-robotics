@@ -30,7 +30,7 @@ https://youtu.be/cr1q8plvLYg?si=vdiGiE9ikF4Jr6Cg
 ## We are looking for cooperation and sponsorship
 - we will deliver full plans, easily available parts list, and software
 - free for personal and research usage
-- small fee for commercial usage (like 10%)
+- small fee for commercial manufacturing/usage (like 10%)
 - planning contests for technical teams to deliver the most efficient solution based on patent
 
 ## Limited sponsorship perks
