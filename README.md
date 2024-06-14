@@ -27,13 +27,23 @@ https://github.com/obotx/open-source-robotics/assets/168444623/3ff2339c-3a10-447
 
 </br>
 
-## We are looking for cooperation and sponsorship
+# Help to reduce inequity
+
+- reducing children's work
+- fewer robotic jobs done by humans
+
+child labor has increased exponentially over the course of the past four years, according to UNICEF and ILO
+
+![girla_working](https://github.com/obotx/open-source-robotics/assets/168444623/be746a09-8798-42ab-a7c6-2ea2503d6184)
+
+
+## We are looking to increase visibility, cooperation and sponsorship
 - we will deliver full plans, easily available parts list, and software
 - free for personal and research usage
 - small fee for commercial manufacturing/usage
 - planning contests for technical teams to deliver the most efficient solution based on patent
 
-## Limited sponsorship perks
+## Sponsorship perks (also for promoting the project)
 - huge, lifetime discounts on construction and software
 - dedicated, unique items
 - surprises :)
