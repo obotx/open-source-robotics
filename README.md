@@ -57,4 +57,6 @@ For more information on:
 - our plans
 - cooperation options
  
-please write: openrobotx@gmail.com
+please write: <br> openrobotx@gmail.com </br> https://x.com/open_robotx
+
+
