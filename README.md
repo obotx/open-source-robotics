@@ -31,8 +31,10 @@ https://github.com/obotx/open-source-robotics/assets/168444623/3ff2339c-3a10-447
 
 - reducing children's work
 - fewer robotic jobs done by humans
+- less inequity
 
-child labor has increased exponentially over the course of the past four years, according to UNICEF and ILO
+**160 million children are working.** 
+The latest global estimates indicate that the number of children in child labour has risen to 160 million worldwide – an increase of 8.4 million children in the last four years, according to UNICEF and ILO
 
 ![girla_working](https://github.com/obotx/open-source-robotics/assets/168444623/be746a09-8798-42ab-a7c6-2ea2503d6184)
 
