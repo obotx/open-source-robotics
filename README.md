@@ -3,6 +3,7 @@
 
 
 ## Estimated cost: $3 999
+- versus about $350 000 of actual constructions
 - globally patented construction
 - easy to assemble for everyone
 - innovative AI software
