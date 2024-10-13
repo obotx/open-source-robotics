@@ -7,7 +7,7 @@
 ## Estimated cost: $3 999
 - versus about $350 000 of actual constructions
 - globally patented construction
-- easy to assemble for everyone
+- easy to assemble for everyone (open source robotics)
 - innovative AI software
 - human like capability:
 
@@ -52,7 +52,7 @@ The latest global estimates indicate that the number of children in child labour
 
 
 ## We are looking to increase visibility, cooperation and sponsorship
-- we will deliver full plans, easily available parts list, and software
+- we will deliver full open source robotics plans, easily available parts list, and software
 - free for personal and research usage
 - small fee for commercial manufacturing/usage
 - planning contests for technical teams to deliver the most efficient solution based on patent
