@@ -57,6 +57,9 @@ The latest global estimates indicate that the number of children in child labour
 - small fee for commercial manufacturing/usage
 - planning contests for technical teams to deliver the most efficient solution based on patent
 
+![image](https://github.com/user-attachments/assets/e28f9778-b77e-4a5f-8c26-c496cdcee1f9)
+
+
 ## Sponsorship perks (also for promoting the project)
 - huge, lifetime discounts on construction and software
 - dedicated, unique items
