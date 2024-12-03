@@ -49,13 +49,13 @@ https://standardbots.com/blog/how-much-does-a-robot-arm-cost
 The latest global estimates indicate that the number of children in child labour has risen to 160 million worldwide – an increase of 8.4 million children in the last four years, according to UNICEF and ILO
 
 ![girla_working](https://github.com/obotx/open-source-robotics/assets/168444623/be746a09-8798-42ab-a7c6-2ea2503d6184)
+</br>
 
-
-## We are looking to increase visibility, cooperation and sponsorship
+# We are looking to increase visibility, cooperation and sponsorship
 - we will deliver full open source robotics plans, easily available parts list, and software
 - free for personal and research usage
 - small fee for commercial manufacturing/usage
-- planning contests for technical teams to deliver the most efficient solution based on patent
+- planning contests/hackathons for technical teams 
 
 ![image](https://github.com/user-attachments/assets/e28f9778-b77e-4a5f-8c26-c496cdcee1f9)
 
