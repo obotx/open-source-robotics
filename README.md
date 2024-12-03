@@ -2,7 +2,7 @@
 
 ![gluten_robotx](https://github.com/obotx/open-source-robotics/assets/168444623/459bbd07-60bb-4f64-9e7e-851b94eba2c6)
 
-[Robotic DYI arm](https://github.com/obotx/diy-robot-arm)
+[Robotic DIY arm](https://github.com/obotx/diy-robot-arm) | [Quadruped robotics](https://github.com/obotx/quadruped-robotics)
 
 ## Estimated cost: $3 999
 - versus about $350 000 of actual constructions
