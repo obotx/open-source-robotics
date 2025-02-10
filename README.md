@@ -6,7 +6,7 @@
 
 ## Estimated cost: $3 999
 - versus about $350 000 of actual constructions
-- globally patented construction
+- globally patented construction so corporations can't close it
 - easy to assemble for everyone (open source robotics)
 - innovative AI software
 - human like capability:
