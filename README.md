@@ -60,7 +60,7 @@ The latest global estimates indicate that the number of children in child labour
 - small fee for commercial manufacturing/usage
 - planning contests/hackathons for technical teams 
 
-![image](https://github.com/user-attachments/assets/e28f9778-b77e-4a5f-8c26-c496cdcee1f9)
+https://github.com/user-attachments/assets/ace3e387-373c-48c0-a6cd-64db6422f6d3
 
 
 ## Sponsorship perks (also for promoting the project)
