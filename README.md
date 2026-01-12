@@ -12,7 +12,7 @@ Technical repos:
 - globally patented construction so corporations can't close it
 - easy to assemble for everyone (open source robotics)
 - innovative AI software
-- human like capability:
+- human-like capability:
 
 https://github.com/obotx/open-source-robotics/assets/168444623/599c86bd-4fc9-4af4-8a29-0fe06c1e3da2
 
@@ -41,7 +41,9 @@ https://standardbots.com/blog/how-much-does-a-robot-arm-cost
 </br>Plus up and down movement is needed.
 
 </br>
-
+</br>
+https://github.com/obotx/open-source-robotics/blob/main/robotic_tasks.png
+</br>
 # Help to reduce inequity
 
 - reducing children's work
