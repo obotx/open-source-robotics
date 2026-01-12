@@ -33,7 +33,7 @@ https://github.com/obotx/open-source-robotics/assets/168444623/3ff2339c-3a10-447
 
 </br>
 
-![comparison](https://github.com/obotx/open-source-robotics/assets/168444623/17c5eddd-0c68-4fce-ade2-c18132797d5d)
+![comparison](https://github.com/obotx/open-source-robotics/blob/main/comparison.png)
 
 
 "A Six-Axis Industrial robot arm with an 11-13 lbs (5-6 kg) payload capacity that is used for welding and cutting can start anywhere in the region of $9,500 to $10,000."
