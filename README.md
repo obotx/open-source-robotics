@@ -33,7 +33,7 @@ https://github.com/obotx/open-source-robotics/assets/168444623/3ff2339c-3a10-447
 
 </br>
 
-![comparison](https://github.com/obotx/open-source-robotics/blob/main/comparison_1.png)
+![comparison](https://github.com/obotx/open-source-robotics/blob/main/comparison_2.png)
 
 
 "A Six-Axis Industrial robot arm with an 11-13 lbs (5-6 kg) payload capacity that is used for welding and cutting can start anywhere in the region of $9,500 to $10,000."
@@ -72,10 +72,10 @@ https://github.com/user-attachments/assets/ace3e387-373c-48c0-a6cd-64db6422f6d3
 - huge, lifetime discounts on construction and software
 - dedicated, unique items
 - surprises :)
-- ObotX shares for sponshorship above $100k
+- ObotX shares for sponsorship above $100k
 - and others
 
-Are you a corporation and would you like to add your logo here? 
+Are you a corporation, and would you like to add your logo here? 
 
 For more information on:
 - what we can propose for sponsorship
