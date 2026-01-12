@@ -42,7 +42,9 @@ https://standardbots.com/blog/how-much-does-a-robot-arm-cost
 
 </br>
 </br>
+
 ![robotic_tasks](https://github.com/obotx/open-source-robotics/blob/main/robotic_tasks.png)
+
 </br>
 
 # Help to reduce inequity
