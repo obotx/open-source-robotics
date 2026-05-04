@@ -1,3 +1,5 @@
+
+
 ## Open Source Robotics
 
 ![gluten_robotx](https://github.com/obotx/open-source-robotics/assets/168444623/459bbd07-60bb-4f64-9e7e-851b94eba2c6)
@@ -13,8 +15,9 @@ Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulato
 - innovative AI software
 - human-like capability
 
-https://github.com/obotx/open-source-robotics/blob/main/LQ_tripod_Github.mp4
-
+<video controls loop="" muted="" autoplay="">
+    <source src="[https://github.com/ciaranbench/ciaranbench.github.io/raw/main/assets/dance_ex.mp4](https://github.com/obotx/open-source-robotics/blob/main/LQ_tripod_Github.mp4)" />
+</video>
 
 </br>
 
