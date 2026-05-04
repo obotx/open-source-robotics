@@ -16,7 +16,7 @@ Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulato
 - human-like capability
 
 <video controls loop="" muted="" autoplay="">
-    <source src="[https://github.com/ciaranbench/ciaranbench.github.io/raw/main/assets/dance_ex.mp4](https://github.com/obotx/open-source-robotics/blob/main/LQ_tripod_Github.mp4)" />
+    <source src="https://github.com/obotx/open-source-robotics/blob/main/LQ_tripod_Github.mp4" />
 </video>
 
 </br>
