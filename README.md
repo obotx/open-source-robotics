@@ -5,7 +5,9 @@
 Website: [ObotX.com](https://obotx.com)
 
 Technical repos:
+
 [Mobile manipulator](https://github.com/obotx/mobile-manipulator) 
+
 [Motion planning](https://github.com/obotx/motion-planning)
 
 ## Estimated cost: $3 999 (two arms version) 
