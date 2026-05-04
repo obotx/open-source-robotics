@@ -5,7 +5,8 @@
 Website: [ObotX.com](https://obotx.com)
 
 Technical repos:
-[Mobile manipulator](https://github.com/obotx/mobile-manipulator) (actual) | [Robotic DIY arm](https://github.com/obotx/diy-robot-arm) (old) | [Quadruped robotics](https://github.com/obotx/quadruped-robotics) (in progress)
+[Mobile manipulator](https://github.com/obotx/mobile-manipulator) 
+[Motion planning](https://github.com/obotx/motion-planning)
 
 ## Estimated cost: $3 999
 - versus about $350 000 of actual constructions
@@ -47,11 +48,14 @@ https://standardbots.com/blog/how-much-does-a-robot-arm-cost
 
 </br>
 
-# Help to reduce inequity
+# Help to reduce inequity by universal income
 
+- full manpower automation
+- every robot highly taxed
+- less inequity (universal income)
 - reducing children's work
-- fewer robotic jobs done by humans
-- less inequity
+- no robotic jobs done by humans
+
 
 **160 million children are working.** 
 The latest global estimates indicate that the number of children in child labour has risen to 160 million worldwide – an increase of 8.4 million children in the last four years, according to UNICEF and ILO
