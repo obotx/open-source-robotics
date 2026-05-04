@@ -8,7 +8,7 @@ Technical repos:
 [Mobile manipulator](https://github.com/obotx/mobile-manipulator) 
 [Motion planning](https://github.com/obotx/motion-planning)
 
-## Estimated cost: $3 999
+## Estimated cost: $3 999 (two arms version) 
 - versus about $350 000 of actual constructions
 - globally patented construction so corporations can't close it
 - easy to assemble for everyone (open source robotics)
