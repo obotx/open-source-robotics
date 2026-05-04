@@ -15,9 +15,10 @@ Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulato
 - innovative AI software
 - human-like capability
 
-<video controls loop="" muted="" autoplay="">
-    <source src="https://github.com/obotx/open-source-robotics/blob/main/LQ_tripod_Github.mp4" />
-</video>
+
+
+https://github.com/user-attachments/assets/11b11565-827a-4cca-913e-1513c0680cdb
+
 
 </br>
 
@@ -94,6 +95,12 @@ For more information on:
 - our plans
 - cooperation options
  
-please write: <br> openrobotx@gmail.com </br> https://x.com/open_robotx
+please write: <br> contact@obotx.com
+
+https://github.com/user-attachments/assets/831a7eca-57ec-489a-80f5-84d88d633d4f
+
+ </br> https://x.com/open_robotx
+
+Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulator) | [Motion planning](https://github.com/obotx/motion-planning)
 
 
