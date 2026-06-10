@@ -6,7 +6,8 @@
 
 Website: [ObotX.com](https://obotx.com)
 
-Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulator) | [Motion planning](https://github.com/obotx/motion-planning)
+Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulator) | [Motion planning](https://github.com/obotx/motion-planning) | [Teleoperation](https://github.com/obotx/robot-teleoperation) | [Digital Twinning](https://github.com/obotx/digital-twinning)
+
 
 ## Estimated cost: $1500 (one arm version) 
 - versus about $350 000 of actual constructions
