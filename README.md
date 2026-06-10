@@ -6,7 +6,7 @@
 
 Website: [ObotX.com](https://obotx.com)
 
-Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulator) | [Motion planning](https://github.com/obotx/motion-planning) | [Teleoperation](https://github.com/obotx/robot-teleoperation) | [Digital Twinning](https://github.com/obotx/digital-twinning)
+Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulator) | [Motion planning](https://github.com/obotx/motion-planning) | [Teleoperation](https://github.com/obotx/robot-teleoperation) | [Digital twinning](https://github.com/obotx/digital-twinning)
 
 
 ## Estimated cost: $1500 (one arm version) 
@@ -102,6 +102,6 @@ https://github.com/user-attachments/assets/831a7eca-57ec-489a-80f5-84d88d633d4f
 
  </br> https://x.com/open_robotx
 
-Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulator) | [Motion planning](https://github.com/obotx/motion-planning)
+Technical repos: [Mobile manipulator](https://github.com/obotx/mobile-manipulator) | [Motion planning](https://github.com/obotx/motion-planning) | [Teleoperation](https://github.com/obotx/robot-teleoperation) | [Digital twinning](https://github.com/obotx/digital-twinning)
 
 
